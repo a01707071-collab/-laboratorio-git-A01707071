@@ -1,0 +1,11 @@
+# Comandos de Git
+
+* **`git status`**: Revisa qué cambios tienes sin guardar o preparados.
+* **`git add`**: Prepara un archivo para guardarlo.
+* **`git commit`**: Guarda los cambios preparados con un mensaje.
+* **`git push`**: Sube tus cambios guardados a GitHub.
+* **`git pull`**: Baja los cambios nuevos de GitHub a tu computadora.
+* **`git log`**: Muestra el historial de cambios guardados.
+* **`git diff`**: Enseña qué líneas de código modificaste.
+* **`git restore`**: Cancela los cambios que hiciste en un archivo y lo regresa a como estaba.
+* **`git restore --staged`**: Quita un archivo de la lista de preparación sin borrar tu trabajo.
